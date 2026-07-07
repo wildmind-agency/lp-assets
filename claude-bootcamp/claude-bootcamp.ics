@@ -23,10 +23,10 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:claude-bootcamp-2026-07-30@wildmind.agency
 DTSTAMP:20260706T180000Z
-DTSTART;TZID=Asia/Jerusalem:20260730T210000
+DTSTART;TZID=Asia/Jerusalem:20260730T200000
 DTEND;TZID=Asia/Jerusalem:20260730T230000
 SUMMARY:מי מפחד מבינה מלאכותית? · WILDMIND × פימפינלה
-DESCRIPTION:מפגש היכרות למתחילים: בניית סוכני AI. מתקינים קלוד קוד\, בונים כלי ביחד\, עם דרינק ביד. כניסה חופשית. מביאים לפטופ + מטען. פרטים: https://www.wildmind.agency/claude-bootcamp
+DESCRIPTION:20:00 סשן התקנות משותף · 21:00 הרצאה. מפגש היכרות למתחילים: בניית סוכני AI. מביאים לפטופ + מטען + חשבון Gmail מחובר. כניסה חופשית. פרטים: https://www.wildmind.agency/claude-bootcamp
 LOCATION:פימפינלה\, נחלת בנימין 115\, תל אביב
 ORGANIZER;CN=Dor Rosenthal - WILDMIND:mailto:dor@wildmind.agency
 URL:https://www.wildmind.agency/claude-bootcamp
